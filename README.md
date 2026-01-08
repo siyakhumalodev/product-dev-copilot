@@ -15,13 +15,13 @@ Toolkit for turning an NHS service idea into:
 
 2. Scenario + problem statement (VSCode Copilot Chat)
   - Run `/generate_nhs_service_scenario` <description of scenario>
-  - Save in `tmp/scenario.md`
+  - Save in `scenarios/scenario.md`
 
 3. Personas (Microsoft 365 Copilot → Researcher)
   - Open Copilot Chat: https://m365.cloud.microsoft/chat/
   - Researcher docs: https://learn.microsoft.com/en-us/copilot/microsoft-365/researcher-agent
-  - Paste your `tmp/scenario.md` into [persona-generation-prompt.md](persona-generation-prompt.md) and run in researcher.
-  - Save: `tmp/persona-report.md`
+  - Paste your `scenarios/scenario.md` into the bottom of [persona/persona-generation-prompt.md](persona/persona-generation-prompt.md) and run in researcher.
+  - Save the output to: `personas/persona-report.md`
 
 4. Slides (VS Code Copilot Chat)
   - Run `/generate_persona_slides_from_report` tmp/persona-report.md`

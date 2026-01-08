@@ -20,3 +20,5 @@ Write 1-2 paragraphs describing:
 - What success looks like
 
 Use proper NHS terminology and context. Fill in reasonable assumptions where details are missing.
+
+Save the output in markdown format with appropriate headings at `scenarios/scenario.md`
