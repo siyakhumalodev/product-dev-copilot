@@ -72,7 +72,7 @@ Examples of acceptable “innovations” in a prototype:
 ## Workflow (do in order)
 
 1. **Ensure the prototype exists**
-   - If `./prototype` is missing, clone `https://github.com/nhsuk/nhsapp-prototype` into `./prototype`, remove `prototype/.git`, then run `npm install`.
+   - If `./prototype` does not contain the nhsapp-prototype kit, clone it from `https://github.com/nhsuk/nhsapp-prototype` into `./prototype`, remove `prototype/.git`, then run `npm install`.
    - If `./prototype` already exists, do not delete/recreate it.
 
 2. **Start the server and keep it running**
