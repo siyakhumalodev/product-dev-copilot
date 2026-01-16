@@ -11,7 +11,7 @@ Use this prompt in the **Researcher** agent inside Microsoft 365 Copilot to gene
 ### Objective
 Research and create detailed user personas for every role involved in the described system, using real-world UK NHS job titles and organizational context. Include both NHS staff roles and non-NHS roles (such as patients, carers, family members, external partners, and other stakeholders).
 
-**Important**: Each persona should be written as if describing a specific individual person, not a generalized role. Use concrete details, specific behaviors, and personal context to make each persona feel real and relatable.
+**Important**: Each persona should be written as if describing a specific individual person, not a generalized role. Use concrete details, specific behaviors, and personal context to make each persona feel real and relatable. Limit each persona to one page, a maximum of 10 personas, and provide the output in Markdown format.
 
 ### Persona Requirements
 
