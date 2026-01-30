@@ -1,0 +1,34 @@
+{
+  "name": "Product Dev Copilot",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "marp-team.marp-vscode",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-preview-github-styles",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "github.copilot",
+        "github.copilot-chat"
+      ],
+      "settings": {
+        "markdown.marp.enableHtml": true
+      }
+    }
+  },
+  "postCreateCommand": "cd prototype && npm install",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Prototype App",
+      "onAutoForward": "notify"
+    }
+  }
+}
