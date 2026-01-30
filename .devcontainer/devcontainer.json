@@ -5,6 +5,9 @@
     "ghcr.io/devcontainers/features/node:1": {
       "version": "lts"
     }
+  }, 
+  "hostRequirements": {
+    "cpus": 4
   },
   "customizations": {
     "vscode": {
@@ -23,6 +26,7 @@
       }
     }
   },
+  "waitFor": "onCreateCommand",
   "postCreateCommand": "cd prototype && npm install",
   "forwardPorts": [3000],
   "portsAttributes": {
