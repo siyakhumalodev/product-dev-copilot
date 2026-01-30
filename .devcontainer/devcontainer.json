@@ -35,7 +35,6 @@
     }
   },
   "waitFor": "onCreateCommand",
-  "postCreateCommand": "cd prototype && npm install",
   "forwardPorts": [3000],
   "portsAttributes": {
     "3000": {
