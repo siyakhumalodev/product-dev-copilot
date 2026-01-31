@@ -1,0 +1,36 @@
+{
+  "name": "Dr. Priya Patel",
+  "jobTitle": "Foundation Year 2 Doctor - Acute Medicine",
+  "slideTitle": "ON-CALL DOCTOR",
+  "experience": "2 years post-qualification, rotating through acute medicine, confident with digital tools.",
+  "location": "NHS Trust, Acute Medical Team",
+  "department": "Acute Medical Team",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a South Asian British woman (late 20s), NHS doctor attire, focused and approachable, hospital ward background, natural lighting, sharp focus, no text",
+  "background": [
+    "2 years post-qualification, acute medicine rotation",
+    "Covers multiple wards and overflow areas",
+    "Responds to escalations for deteriorating patients",
+    "Confident with digital tools",
+    "Commutes from nearby city"
+  ],
+  "goals": [
+    "Respond quickly to escalation calls",
+    "Prioritise patients by clinical risk and urgency",
+    "Wants summary of recent obs and escalation history",
+    "Timely reviews and safe discharges"
+  ],
+  "wants": [
+    "Concise, up-to-date patient summaries",
+    "Clear escalation logs and SBAR handovers",
+    "Mobile and desktop access",
+    "Minimal duplication of data entry",
+    "Bleep, phone, and secure messaging communication"
+  ],
+  "painPoints": [
+    "Missing or outdated obs",
+    "Hard to get full picture of patients in overflow areas",
+    "Needs better audit trails for rapid response",
+    "Wishes for automated trend charts and alerts"
+  ]
+}

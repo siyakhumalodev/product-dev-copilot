@@ -1,0 +1,34 @@
+{
+  "name": "Dr. Emily Green",
+  "jobTitle": "Consultant Physician - Acute Medicine, Clinical Governance Lead",
+  "slideTitle": "CLINICAL GOVERNANCE LEAD",
+  "experience": "47 years old, consultant responsible for clinical governance and patient safety, leads QI initiatives.",
+  "location": "NHS Trust, Clinical Governance",
+  "department": "Clinical Governance",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a white British woman (late 40s), consultant attire, thoughtful and professional, NHS meeting room background, soft lighting, sharp focus, no text",
+  "background": [
+    "Consultant responsible for clinical governance and patient safety",
+    "Reviews incident reports and audits escalation processes",
+    "Leads quality improvement initiatives",
+    "Champion for digital innovation, cautious about data security",
+    "Lives with partner"
+  ],
+  "goals": [
+    "Ensure compliance with escalation and documentation standards",
+    "Track trends in patient deterioration and response times",
+    "Robust audit trails and exportable reports",
+    "Improve patient safety metrics and regulatory compliance"
+  ],
+  "wants": [
+    "Access to comprehensive, accurate data",
+    "Dashboards and exportable audit logs",
+    "Desktop access and secure data handling",
+    "Training for new reporting tools"
+  ],
+  "painPoints": [
+    "Incomplete or inconsistent data",
+    "Needs better integration with trust audit systems",
+    "Wishes for automated compliance reports"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Aisha Begum",
+  "jobTitle": "Healthcare Assistant - Band 2, Acute Medicine",
+  "slideTitle": "HEALTHCARE ASSISTANT",
+  "experience": "4 years as an HCA in acute and emergency NHS settings, known for calm manner and rapport with anxious patients.",
+  "location": "NHS Trust, Emergency Department Overflow",
+  "department": "Emergency Department (ED) Overflow",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a young British Bangladeshi woman (mid-20s), NHS HCA uniform, friendly and calm expression, hospital corridor background, soft natural lighting, sharp focus, no text",
+  "background": [
+    "Worked 4 years as an HCA in NHS acute/emergency settings",
+    "Known for building rapport with anxious patients",
+    "Frequently covers overflow and temporary wards",
+    "Juggles multiple patients and urgent tasks daily",
+    "Fluent in English and Bengali"
+  ],
+  "goals": [
+    "Ensure all patients have up-to-date vital signs recorded",
+    "Spot early signs of deterioration and escalate promptly",
+    "Track completion of observation rounds",
+    "Prioritise which patients need obs next with system help"
+  ],
+  "wants": [
+    "Quick, mobile-friendly way to enter vitals",
+    "Clear prompts for overdue/missing observations",
+    "Minimal typing and clear patient lists",
+    "Basic training and visual guides",
+    "Face-to-face or walkie-talkie communication"
+  ],
+  "painPoints": [
+    "Paper obs charts get lost or delayed",
+    "Hard to keep track of patients in non-standard areas",
+    "Wishes for reminders and a single patient list",
+    "Manual data entry is time-consuming"
+  ]
+}

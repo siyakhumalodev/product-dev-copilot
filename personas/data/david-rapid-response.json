@@ -1,0 +1,35 @@
+{
+  "name": "David Chen",
+  "jobTitle": "Advanced Clinical Practitioner - Band 8a, Rapid Response",
+  "slideTitle": "RAPID RESPONSE TEAM LEAD",
+  "experience": "Experienced ACP, leads rapid response team, passionate about QI and digital innovation.",
+  "location": "NHS Trust, Rapid Response Team",
+  "department": "Rapid Response Team",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a British Chinese man (late 30s), NHS ACP attire, thoughtful and energetic, hospital meeting room background, bright lighting, sharp focus, no text",
+  "background": [
+    "Experienced ACP, leads rapid response team",
+    "Reviews escalated patients and supports junior staff",
+    "Ensures compliance with escalation protocols",
+    "Passionate about quality improvement and digital innovation",
+    "Active in staff network"
+  ],
+  "goals": [
+    "Ensure rapid review of deteriorating patients",
+    "Track escalation trends and outcomes",
+    "Automated reports and trend analysis",
+    "Reduce adverse events and ensure timely interventions"
+  ],
+  "wants": [
+    "Access to escalation logs and patient trends",
+    "Real-time data and printable summaries",
+    "Desktop and tablet access",
+    "Advanced analytics and export options",
+    "Teams, phone, and email communication"
+  ],
+  "painPoints": [
+    "Manual data collation is frustrating",
+    "Needs better integration with audit systems",
+    "Wishes for automated alerts and PDF summaries"
+  ]
+}

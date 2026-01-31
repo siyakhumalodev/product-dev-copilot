@@ -1,0 +1,33 @@
+{
+  "name": "Mary Jones",
+  "jobTitle": "Patient - Elderly, Frailty",
+  "slideTitle": "PATIENT",
+  "experience": "81 years old, admitted with chest infection, mild cognitive impairment, limited mobility.",
+  "location": "NHS Trust, Temporary Ward",
+  "department": "Temporary Ward",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of an elderly white British woman (early 80s), hospital gown, gentle and anxious expression, hospital bed background, soft lighting, natural skin tones, no text",
+  "background": [
+    "Lives alone, admitted with chest infection",
+    "Mild cognitive impairment and limited mobility",
+    "Anxious in busy, unfamiliar environment",
+    "Struggles to remember when last observations were taken",
+    "On pension, limited income"
+  ],
+  "goals": [
+    "Wants to feel safe and reassured",
+    "Hopes staff will notice if she feels worse",
+    "Reviewed promptly and kept informed"
+  ],
+  "wants": [
+    "Clear communication and reassurance",
+    "Staff to explain what’s happening",
+    "Prefers face-to-face updates",
+    "Accessible information (large print, simple language)"
+  ],
+  "painPoints": [
+    "Long waits and lack of updates",
+    "Anxious when staff seem rushed or forgetful",
+    "Wishes for a call bell that works in corridors"
+  ]
+}

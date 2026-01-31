@@ -1,0 +1,27 @@
+{% extends "layout-app.html" %}
+{% set pageTitle = "Patient list (overflow area)" %}
+
+{% block content %}
+<section class="nhsapp-section">
+  <h1>Patients in corridor</h1>
+  <p>Select a patient to record vital signs. Overdue observations are flagged.</p>
+  <ul class="nhsapp-list nhsapp-list--cards">
+    <li class="nhsapp-card">
+      <h2 class="nhsapp-card__heading">John Doe <span class="nhsapp-tag nhsapp-tag--red">Overdue</span></h2>
+      <p>Bed: Corridor 1 &middot; Last obs: 2h ago</p>
+      <a class="nhsapp-link" href="/pages/journey-rapid-vitals-entry/record-vitals-john">Record vitals</a>
+    </li>
+    <li class="nhsapp-card">
+      <h2 class="nhsapp-card__heading">Mary Smith</h2>
+      <p>Bed: Corridor 2 &middot; Last obs: 45m ago</p>
+      <a class="nhsapp-link" href="/pages/journey-rapid-vitals-entry/record-vitals-mary">Record vitals</a>
+    </li>
+    <li class="nhsapp-card">
+      <h2 class="nhsapp-card__heading">Ali Rahman <span class="nhsapp-tag nhsapp-tag--yellow">Due soon</span></h2>
+      <p>Bed: Corridor 3 &middot; Last obs: 1h 30m ago</p>
+      <a class="nhsapp-link" href="/pages/journey-rapid-vitals-entry/record-vitals-ali">Record vitals</a>
+    </li>
+  </ul>
+  <a class="nhsapp-link nhsapp-link--back" href="/pages/journey-rapid-vitals-entry">Back to overview</a>
+</section>
+{% endblock %}

@@ -1,0 +1,36 @@
+{
+  "name": "Tom Williams",
+  "jobTitle": "Registered Nurse - Band 6, Triage",
+  "slideTitle": "TRIAGE NURSE",
+  "experience": "10 years in emergency nursing, 3 years as triage nurse in NHS ED.",
+  "location": "NHS Trust, Emergency Department",
+  "department": "Emergency Department (ED)",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a white British man (early 30s), NHS nurse uniform, alert and approachable, busy ED background, bright clinical lighting, sharp focus, no text",
+  "background": [
+    "10 years’ experience in emergency nursing",
+    "3 years as triage nurse in NHS ED",
+    "Responsible for initial assessment and risk stratification",
+    "Manages patients in corridors and overflow spaces",
+    "Lives locally"
+  ],
+  "goals": [
+    "Rapidly identify high-risk patients and escalate as needed",
+    "Maintain oversight of all patients in non-standard areas",
+    "Track time since last obs and ensure timely reviews",
+    "System flags deteriorating patients automatically"
+  ],
+  "wants": [
+    "Real-time updates and clear risk scores",
+    "Accurate, up-to-date patient lists",
+    "Desktop and tablet access",
+    "Integration with SBAR handover tools",
+    "Phone, bleep, and in-person communication"
+  ],
+  "painPoints": [
+    "Fragmented information and handovers",
+    "Hard to monitor patients outside main bays",
+    "Needs better visibility of overdue obs and escalation status",
+    "Manual tracking is error-prone"
+  ]
+}

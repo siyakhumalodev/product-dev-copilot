@@ -1,0 +1,16 @@
+{% extends "layout-app.html" %}
+{% set pageTitle = "Escalate: John Doe" %}
+
+{% block content %}
+<section class="nhsapp-section">
+  <h1>Escalate: John Doe</h1>
+  <form action="/pages/journey-rapid-vitals-entry/escalation-confirm-john" method="get">
+    <div class="nhsapp-form-group">
+      <label for="sbar">SBAR handover notes</label>
+      <textarea class="nhsapp-textarea" id="sbar" name="sbar" rows="5" required placeholder="Situation, Background, Assessment, Recommendation..."></textarea>
+    </div>
+    <button class="nhsapp-button" type="submit">Submit escalation</button>
+  </form>
+  <a class="nhsapp-link nhsapp-link--back" href="/pages/journey-rapid-vitals-entry/vitals-confirm-john">Back</a>
+</section>
+{% endblock %}

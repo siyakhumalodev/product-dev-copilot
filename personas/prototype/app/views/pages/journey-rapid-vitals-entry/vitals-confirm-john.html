@@ -1,0 +1,15 @@
+{% extends "layout-app.html" %}
+{% set pageTitle = "Vitals saved: John Doe" %}
+
+{% block content %}
+<section class="nhsapp-section">
+  <h1>Vitals saved for John Doe</h1>
+  <p>All vital signs have been recorded. <span class="nhsapp-tag nhsapp-tag--red">Abnormal values detected</span></p>
+  <div class="nhsapp-callout nhsapp-callout--urgent">
+    <h2>Escalation required</h2>
+    <p>Prompt for escalation using SBAR. Notify staff nurse immediately.</p>
+    <a class="nhsapp-button" href="/pages/journey-rapid-vitals-entry/escalate-john">Escalate now</a>
+  </div>
+  <a class="nhsapp-link" href="/pages/journey-rapid-vitals-entry/patient-list">Back to patient list</a>
+</section>
+{% endblock %}

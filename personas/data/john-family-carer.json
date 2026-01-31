@@ -1,0 +1,33 @@
+{
+  "name": "John Smith",
+  "jobTitle": "Family Carer - Son",
+  "slideTitle": "FAMILY CARER",
+  "experience": "54 years old, main carer and next of kin for elderly mother, balances work and caring duties.",
+  "location": "NHS Trust, Community",
+  "department": "N/A",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a white British man (mid-50s), casual smart attire, caring and concerned expression, home background, natural lighting, sharp focus, no text",
+  "background": [
+    "Main carer and next of kin for elderly mother",
+    "Works part-time, visits daily",
+    "Proactive in asking questions about care",
+    "Sometimes struggles to get updates from busy staff",
+    "Local resident"
+  ],
+  "goals": [
+    "Wants timely updates on mother’s condition",
+    "Hopes to be involved in care decisions",
+    "Feels confident in care provided"
+  ],
+  "wants": [
+    "Clear, regular communication from staff",
+    "Phone calls and in-person updates",
+    "Prefers written summaries for reference",
+    "Needs information about escalation and contacts"
+  ],
+  "painPoints": [
+    "Inconsistent updates from staff",
+    "Hard to get through on the phone",
+    "Wishes for a single point of contact"
+  ]
+}

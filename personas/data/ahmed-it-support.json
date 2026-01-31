@@ -1,0 +1,33 @@
+{
+  "name": "Ahmed Yusuf",
+  "jobTitle": "IT Support Analyst - Band 5, Digital Services",
+  "slideTitle": "IT SUPPORT ANALYST",
+  "experience": "31 years old, supports clinical systems, delivers user training, keen to improve digital adoption.",
+  "location": "NHS Trust, Digital Services",
+  "department": "Digital Services",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of a British Somali man (early 30s), smart-casual IT attire, approachable and focused, NHS IT office background, bright lighting, sharp focus, no text",
+  "background": [
+    "Supports clinical systems including Deterioration Radar",
+    "Provides first-line support and troubleshooting",
+    "Delivers user training",
+    "Keen to improve digital adoption and reduce downtime",
+    "Supports family locally"
+  ],
+  "goals": [
+    "Ensure system uptime and rapid issue resolution",
+    "Wants clear documentation and user feedback",
+    "Minimal disruption to clinical workflows"
+  ],
+  "wants": [
+    "Access to system logs and user queries",
+    "Ticketing systems and knowledge bases",
+    "Desktop and remote access tools",
+    "Regular training on new features"
+  ],
+  "painPoints": [
+    "Vague user queries and lack of feedback",
+    "Needs better integration with clinical teams",
+    "Wishes for automated alerts for system issues"
+  ]
+}

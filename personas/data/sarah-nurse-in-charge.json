@@ -1,0 +1,36 @@
+{
+  "name": "Sarah O’Connor",
+  "jobTitle": "Senior Sister - Band 7, Site Management",
+  "slideTitle": "NURSE-IN-CHARGE",
+  "experience": "18 years in acute care, leads site team for patient flow and escalation.",
+  "location": "NHS Trust, Site Management Team",
+  "department": "Site Management Team",
+  "photo": "../images/placeholder.jpg",
+  "photoPrompt": "Photorealistic headshot of an Irish British woman (early 40s), NHS senior nurse uniform, confident and composed, hospital office background, soft lighting, sharp focus, no text",
+  "background": [
+    "18 years’ experience in acute care",
+    "Leads site team for patient flow and escalation",
+    "Coordinates staff across multiple areas",
+    "Accountable for safe staffing and escalation",
+    "Part-time MSc student"
+  ],
+  "goals": [
+    "Maintain oversight of all at-risk patients across site",
+    "Ensure timely escalation and documentation",
+    "Dashboard view of all escalations and actions",
+    "Safe patient flow and compliance with protocols"
+  ],
+  "wants": [
+    "Real-time, site-wide patient status",
+    "Clear audit trails and escalation logs",
+    "Desktop dashboard and printable summaries",
+    "Training for new digital tools",
+    "Phone, Teams, and in-person communication"
+  ],
+  "painPoints": [
+    "Fragmented escalation records",
+    "Needs better visibility of patients in non-standard areas",
+    "Manual reporting is time-consuming",
+    "Wishes for automated summaries and alerts"
+  ]
+}
