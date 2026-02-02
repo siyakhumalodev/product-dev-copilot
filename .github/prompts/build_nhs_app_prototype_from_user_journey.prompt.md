@@ -135,8 +135,24 @@ Examples of acceptable “innovations” in a prototype:
      ```
 
 7. **Update the hub page**
-   - Add a card/link to `prototype/app/views/pages/home-p9.html`.
-   - Link to `/pages/journey-<slug>`.
+   - Add a new **"Prototypes"** section to `prototype/app/views/pages/home-p9.html`.
+   - Place it **before** the existing "Services" section so prototypes are easy to find.
+   - Use the same card group pattern as Services but with a "Prototypes" heading.
+   - Example:
+     ```nunjucks
+     <h2 class="nhsapp-cards__heading">Prototypes</h2>
+     {{ nhsappCardGroup({
+       classes: "nhsapp-cards--stacked",
+       cards: [
+         {
+           title: "Journey Name",
+           href: "/pages/journey-<slug>",
+           description: "Brief description of the prototype"
+         }
+       ]
+     }) }}
+     ```
+   - If a "Prototypes" section already exists, add the new card to it rather than creating a duplicate section.
 
 8. **Smoke test**
    - Click through the whole main flow and each branch.
