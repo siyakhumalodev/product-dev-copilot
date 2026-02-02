@@ -24,8 +24,7 @@ Turn the journey into a clickable NHS App prototype:
   - BrowserSync usually proxies it on `http://localhost:3000`.
 - Do not open the Simple Browser. Instead, when you finish, provide a clickable link to the mobile frame at `http://localhost:3000/frame` (or `http://localhost:2000/frame` if BrowserSync is not running).
 - Every page must have a route. If there is no route, you will get a 404 even if the file exists.
-- Never use `.html` in routes or `href` values.
-- Use NHS App design system components only: https://design-system.nhsapp.service.nhs.uk/components/
+- Never use `.html` in routes or `href` values.- **No broken links:** Every `href` in the prototype must point to an existing page with a corresponding route. Before adding any link, ensure the target page exists. If you add a link, you must also create the page and route for it.- Use NHS App design system components only: https://design-system.nhsapp.service.nhs.uk/components/
   - Avoid inline styles. If you need custom styling, add a small prototype-specific Sass file and import it.
 - Only the journey intro page may contain narrative/explanation. All other pages must look like “real app UI” (no “Step 1 of X”, no meta commentary).
 ## Available Nunjucks macros (critical)
