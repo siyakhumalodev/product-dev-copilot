@@ -11,7 +11,8 @@ Toolkit for turning an idea into:
 ## Quick start
 
 1. Prereqs
-  - Run in Github Codespaces, use provided Dev Container, or alternatively ensure prequisites are installed: `./setup-check.sh` (macOS/Linux) or `./setup-check.ps1` (Windows)
+  - Open this repository in Github Codespaces, in VS Code with provided Dev Container, or if that is not possible use VS Code and  ensure prequisites are installed: `./setup-check.sh` (macOS/Linux) or `./setup-check.ps1` (Windows)
+  - Create a new branch for your work via the terminal or other means: `git checkout -b my-feature-branch`
 
 2. Scenario + problem statement (VSCode Copilot Chat)
   - Run `/generate_scenario_and_problem_statement` <description of scenario>
